@@ -1,3 +1,2 @@
-a = int(input())
-for i in range(a):
+for i in range(int(input())):
     print(i)
